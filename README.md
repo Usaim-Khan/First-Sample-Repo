@@ -1,3 +1,6 @@
 # First-Sample-Repo
-This is my repo creation on GH to check and explore its functionality and usage
-THIS IS README FILE
+this is a readme file
+
+## A markdown file
+
+### We can create headings in it using '#'
